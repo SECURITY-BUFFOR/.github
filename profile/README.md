@@ -1,4 +1,4 @@
-## Tools Table
+## Custom C2 agents
 
 | Tool Name   | Description                  |
 |-------------|------------------------------|
