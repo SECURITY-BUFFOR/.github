@@ -1,5 +1,7 @@
-## Custom C2 agents
+## Repositories
 
-| Tool Name   | Description                  |
-|-------------|------------------------------|
-| ASMODEUS    | C2 agent incomming soon.     |
+| Tool Name   | Description                   |
+|-------------|-------------------------------|
+| ASMODEUS    | C2 agent incomming soon.      |
+| LAIR        | RT & PROGRAMMING SNIPPETS     |
+
